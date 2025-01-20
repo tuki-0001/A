@@ -2034,60 +2034,48 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>血液型　O型</li>
+            <li>血液型　A型</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>好きなもの　武術</li>
-          </label>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-          <label class="form-check-label" for="flexCheckDefault">
-            <li>性格　普通に努力家</li>
+            <li>好きなもの　忍者</li>
           </label>
         </div>
       </ul>
     </div>  
     <div class="col-12 col-md-4 border p-2">
-      <h2>35位尾白猿夫</h2>
+      <h2>40位豊満太志郎</h2>
       <ul class="list-unstyled">
        <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>ヒーロー名　武闘ヒーロー　テイルマン</li>
+            <li>ヒーロー名　BMIヒーロー　ファットガム</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>個性　尻尾</li>
+            <li>個性　脂肪吸着</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>学校学科　雄英高校ヒーロー科1年A組6番</li>
+            <li>出身地　大阪</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>出身校　舞木戸中学校</li>
+            <li>誕生日　8月8日</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>誕生日　5月28日</li>
-          </label>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-          <label class="form-check-label" for="flexCheckDefault">
-            <li>身長　169cm</li>
+            <li>身長　250cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -2099,131 +2087,102 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>好きなもの　武術</li>
+            <li>好きなもの　たこ焼き</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>性格　普通に努力家</li>
+            <li>性格　頼れる兄貴分</li>
           </label>
         </div>
       </ul>
     </div>  
     <div class="col-12 col-md-4 border p-2">
-      <h2>35位尾白猿夫</h2>
+      <h2>41位壊理</h2>
       <ul class="list-unstyled">
-       <div class="form-check">
+
+        <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>ヒーロー名　武闘ヒーロー　テイルマン</li>
+            <li>個性　巻き戻し</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>個性　尻尾</li>
+            <li>誕生日　12月21日</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>学校学科　雄英高校ヒーロー科1年A組6番</li>
+            <li>身長　110cm</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>出身校　舞木戸中学校</li>
-          </label>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-          <label class="form-check-label" for="flexCheckDefault">
-            <li>誕生日　5月28日</li>
-          </label>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-          <label class="form-check-label" for="flexCheckDefault">
-            <li>身長　169cm</li>
-          </label>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-          <label class="form-check-label" for="flexCheckDefault">
-            <li>血液型　O型</li>
-          </label>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-          <label class="form-check-label" for="flexCheckDefault">
-            <li>好きなもの　武術</li>
-          </label>
-        </div>
-        <div class="form-check">
-          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-          <label class="form-check-label" for="flexCheckDefault">
-            <li>性格　普通に努力家</li>
+            <li>好きなもの　リンゴ</li>
           </label>
         </div>
       </ul>
     </div>  
     <div class="col-12 col-md-4 border p-2">
-      <h2>35位尾白猿夫</h2>
+      <h2>42位葉隠透</h2>
       <ul class="list-unstyled">
        <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>ヒーロー名　武闘ヒーロー　テイルマン</li>
+            <li>ヒーロー名　ステルスヒーロー　インビジブルガール</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>個性　尻尾</li>
+            <li>個性　透明化</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>学校学科　雄英高校ヒーロー科1年A組6番</li>
+            <li>学校学科　雄英高校ヒーロー科1年A組16番</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>出身校　舞木戸中学校</li>
+            <li>出身校　毛糸中学校</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>誕生日　5月28日</li>
+            <li>誕生日　6月16日</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長　169cm</li>
+            <li>身長　152cm</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>血液型　O型</li>
+            <li>血液型　A型</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>好きなもの　武術</li>
+            <li>好きなもの　キャラメル</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>性格　普通に努力家</li>
+            <li>性格　すごく明るい</li>
           </label>
         </div>
       </ul>
