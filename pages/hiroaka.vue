@@ -38,7 +38,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長172cm</li>
+            <li>身長　172cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -97,7 +97,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長166cm</li>
+            <li>身長　166cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -156,7 +156,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長176cm</li>
+            <li>身長　176cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -380,7 +380,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長172cm</li>
+            <li>身長　172cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -480,7 +480,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長175cm</li>
+            <li>身長　175cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -533,7 +533,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長170cm</li>
+            <li>身長　170cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -592,7 +592,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長156cm</li>
+            <li>身長　156cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -651,7 +651,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長172cm</li>
+            <li>身長　172cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -663,7 +663,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>好きなもの　	屋久杉・映画</li>
+            <li>好きなもの　屋久杉・映画</li>
           </label>
         </div>
         <div class="form-check">
@@ -698,13 +698,13 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長157cm</li>
+            <li>身長　157cm</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>好きなもの　	血、柘榴</li>
+            <li>好きなもの　血、柘榴</li>
           </label>
         </div>
         <div class="form-check">
@@ -751,7 +751,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長	168㎝</li>
+            <li>身長　168㎝</li>
           </label>
         </div>
         <div class="form-check">
@@ -804,19 +804,19 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長177cm</li>
+            <li>身長　177cm</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>血液型　	AB型</li>
+            <li>血液型　AB型</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>好きなもの　	猫 、サイクリング</li>
+            <li>好きなもの　猫 、サイクリング</li>
           </label>
         </div>
         <div class="form-check">
@@ -851,13 +851,13 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>誕生日　	3月4日</li>
+            <li>誕生日　3月4日</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長	177cm</li>
+            <li>身長　177cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -898,7 +898,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長174cm</li>
+            <li>身長　174cm</li>
           </label>
         </div>
       </ul>
@@ -915,7 +915,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>個性　	エンジン</li>
+            <li>個性　エンジン</li>
           </label>
         </div>
         <div class="form-check">
@@ -939,7 +939,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長179cm</li>
+            <li>身長　179cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -951,7 +951,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>好きなもの　	勉強、ビーフシチュー</li>
+            <li>好きなもの　勉強、ビーフシチュー</li>
           </label>
         </div>
         <div class="form-check">
@@ -992,13 +992,13 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>誕生日　	10月30日</li>
+            <li>誕生日　10月30日</li>
           </label>
         </div>
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長158㎝</li>
+            <li>身長　158㎝</li>
           </label>
         </div>
         <div class="form-check">
@@ -1016,7 +1016,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>性格　	深淵を好むクール系</li>
+            <li>性格　深淵を好むクール系</li>
           </label>
         </div>
       </ul>
@@ -1057,7 +1057,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長154cm</li>
+            <li>身長　154cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -1346,7 +1346,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長185cm</li>
+            <li>身長　185cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -1405,7 +1405,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長150cm</li>
+            <li>身長　150cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -1464,7 +1464,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長168cm</li>
+            <li>身長　168cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -1523,7 +1523,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長187cm</li>
+            <li>身長　187cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -1582,7 +1582,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長164cm</li>
+            <li>身長　164cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -1635,7 +1635,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長190cm</li>
+            <li>身長　190cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -1682,7 +1682,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長178cm</li>
+            <li>身長　178cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -1729,7 +1729,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長171cm</li>
+            <li>身長　171cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -1776,7 +1776,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長159cm</li>
+            <li>身長　159cm</li>
           </label>
         </div>
         <div class="form-check">
@@ -1870,7 +1870,7 @@
         <div class="form-check">
           <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
           <label class="form-check-label" for="flexCheckDefault">
-            <li>身長169cm</li>
+            <li>身長　169cm</li>
           </label>
         </div>
         <div class="form-check">
