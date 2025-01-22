@@ -2,48 +2,69 @@
  <div class="container mt-3">
   <h1 class="display-1">僕のヒーローアカデミアキャラランキング</h1>
 </div>
-<div class="col-12 col-md-4 border p-2">
-      <h2>1位爆豪勝己</h2>
+<div class="col-12 col-md-4 mb-4">
+  <div class="card shadow-sm">
+    <div class="card-header text-center bg-warning">
+      <h2 class="h5 mb-0">1位爆豪勝己</h2>
+    </div>
+    <div class="card-body">
       <ul class="list-unstyled">
-            <li>ヒーロー名　大・爆・殺・神ダイナマイト</li>
-            <li>個性　爆破</li>
-            <li>学校学科　雄英高校ヒーロー科1年A組17番</li>
-            <li>出身校　折寺中学校</li>
-            <li>誕生日　4月20日</li>
-            <li>身長　172cm</li>
-            <li>血液型　A型</li>
-            <li>好きなもの　辛い食べ物全般、登山</li>
-            <li>性格　暴言自信家</li>
+        <li><strong>ヒーロー名</strong>: 大・爆・殺・神ダイナマイト</li>
+        <li><strong>個性</strong>: 爆破</li>
+        <li><strong>学校学科</strong>: 雄英高校ヒーロー科1年A組17番</li>
+        <li><strong>出身校</strong>: 折寺中学校</li>
+        <li><strong>誕生日</strong>: 4月20日</li>
+        <li><strong>身長</strong>: 172cm</li>
+        <li><strong>血液型</strong>: A型</li>
+        <li><strong>好きなもの</strong>: 辛い食べ物全般、登山</li>
+        <li><strong>性格</strong>: 暴言自信家</li>
       </ul>
     </div>
-    <div class="col-12 col-md-4 border p-2">
-      <h2>2位緑谷出久</h2>
+  </div>
+</div>
+
+<div class="col-12 col-md-4 mb-4">
+  <div class="card shadow-sm">
+    <div class="card-header text-center bg-secondary">
+      <h2 class="h5 mb-0">2位緑谷出久</h2>
+    </div>
+    <div class="card-body">
       <ul class="list-unstyled">
-            <li>ヒーロー名　デク</li>
-            <li>個性　ワン・フォー・オール</li>
-            <li>学校学科　雄英高校ヒーロー科1年A組18番</li>
-            <li>出身校　折寺中学校</li>
-            <li>誕生日　7月15日</li>
-            <li>身長　166cm</li>
-            <li>血液型　O型</li>
-            <li>好きなもの　カツ丼</li>
-            <li>性格　行動派オタク</li>
+        <li><strong>ヒーロー名</strong>: デク</li>
+        <li><strong>個性</strong>: ワン・フォー・オール</li>
+        <li><strong>学校学科</strong>: 雄英高校ヒーロー科1年A組18番</li>
+        <li><strong>出身校</strong>: 折寺中学校</li>
+        <li><strong>誕生日</strong>: 7月15日</li>
+        <li><strong>身長</strong>: 166cm</li>
+        <li><strong>血液型</strong>: O型</li>
+        <li><strong>好きなもの</strong>: カツ丼</li>
+        <li><strong>性格</strong>: 行動派オタク</li>
       </ul>
     </div>
-    <div class="col-12 col-md-4 border p-2">
-      <h2>3位轟焦凍</h2>
+  </div>
+</div>
+
+<div class="col-12 col-md-4 mb-4">
+  <div class="card shadow-sm">
+    <div class="card-header text-center bg-info">
+      <h2 class="h5 mb-0">3位轟焦凍</h2>
+    </div>
+    <div class="card-body">
       <ul class="list-unstyled">
-            <li>ヒーロー名　ショート</li>
-            <li>個性　半冷半熱</li>
-            <li>学校学科　雄英高校ヒーロー科1年A組15番</li>
-            <li>出身校　凝山中学校</li>
-            <li>誕生日　1月11日</li>
-            <li>身長　176cm</li>
-            <li>血液型　O型</li>
-            <li>好きなもの　蕎麦（温かくないやつ）</li>
-            <li>性格　クール＆ホットな天然</li>
+        <li><strong>ヒーロー名</strong>: ショート</li>
+        <li><strong>個性</strong>: 半冷半熱</li>
+        <li><strong>学校学科</strong>: 雄英高校ヒーロー科1年A組15番</li>
+        <li><strong>出身校</strong>: 凝山中学校</li>
+        <li><strong>誕生日</strong>: 1月11日</li>
+        <li><strong>身長</strong>: 176cm</li>
+        <li><strong>血液型</strong>: O型</li>
+        <li><strong>好きなもの</strong>: 蕎麦（温かくないやつ）</li>
+        <li><strong>性格</strong>: クール＆ホットな天然</li>
       </ul>
     </div>
+  </div>
+</div>
+
     <div class="col-12 col-md-4 border p-2">
       <h2>4位相澤消太</h2>
       <ul class="list-unstyled">
