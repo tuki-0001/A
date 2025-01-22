@@ -1,10 +1,13 @@
 <template>
- <div class="container mt-3">
-  <h1 class="display-1">僕のヒーローアカデミアキャラランキング</h1>
-</div>
-<div class="col-12 col-md-4 mb-4">
+  <div class="container mt-3 text-center">
+    <h1 class="display-1 title-3d">
+      僕のヒーローアカデミアキャラランキング
+    </h1>
+  </div>
+  <div class="col-12 col-md-4 mb-4">
   <div class="card shadow-sm">
-    <div class="card-header text-center bg-warning">
+    <!-- 1位: ゴールド -->
+    <div class="card-header text-center" style="background-color: #FFD700;">
       <h2 class="h5 mb-0">1位爆豪勝己</h2>
     </div>
     <div class="card-body">
@@ -15,7 +18,7 @@
         <li><strong>出身校</strong>: 折寺中学校</li>
         <li><strong>誕生日</strong>: 4月20日</li>
         <li><strong>身長</strong>: 172cm</li>
-        <li><strong>血液型</strong>: A型</li>
+        <li><strong>血液型</strong>: A型</li> <!-- 修正済み -->
         <li><strong>好きなもの</strong>: 辛い食べ物全般、登山</li>
         <li><strong>性格</strong>: 暴言自信家</li>
       </ul>
@@ -25,7 +28,8 @@
 
 <div class="col-12 col-md-4 mb-4">
   <div class="card shadow-sm">
-    <div class="card-header text-center bg-secondary">
+    <!-- 2位: シルバー -->
+    <div class="card-header text-center" style="background-color: #C0C0C0;">
       <h2 class="h5 mb-0">2位緑谷出久</h2>
     </div>
     <div class="card-body">
@@ -46,7 +50,8 @@
 
 <div class="col-12 col-md-4 mb-4">
   <div class="card shadow-sm">
-    <div class="card-header text-center bg-info">
+    <!-- 3位: ブロンズ -->
+    <div class="card-header text-center" style="background-color: #cd7f32;">
       <h2 class="h5 mb-0">3位轟焦凍</h2>
     </div>
     <div class="card-body">
@@ -57,7 +62,7 @@
         <li><strong>出身校</strong>: 凝山中学校</li>
         <li><strong>誕生日</strong>: 1月11日</li>
         <li><strong>身長</strong>: 176cm</li>
-        <li><strong>血液型</strong>: O型</li>
+        <li><strong>血液型</strong>: O型</li> 
         <li><strong>好きなもの</strong>: 蕎麦（温かくないやつ）</li>
         <li><strong>性格</strong>: クール＆ホットな天然</li>
       </ul>
@@ -1078,3 +1083,36 @@
       </ul>
     </div>  
 </template>
+
+<style scoped>
+  .title-3d {
+    font-family: 'Impact', sans-serif;
+    color: white; /* 白色の文字 */
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    position: relative;
+    font-weight: bolder;
+    text-shadow: 
+      4px 4px 6px rgba(0, 0, 0, 0.5), /* 黒色の影 */
+      0 0 25px rgba(0, 128, 0, 0.7),  /* 緑色の光の影 */
+      0 0 50px rgba(0, 128, 0, 0.7);  /* 緑色の光の影 */
+  }
+
+  .title-3d::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, #4CAF50, #000000); /* 緑と黒のグラデーション */
+    animation: backgroundAnimation 4s infinite alternate;
+    z-index: -1;
+    transform: translate(-50%, -50%);
+  }
+
+  @keyframes backgroundAnimation {
+    0% { background: linear-gradient(45deg, #4CAF50, #000000); } /* 緑から黒 */
+    100% { background: linear-gradient(45deg, #000000, #4CAF50); } /* 黒から緑 */
+  }
+</style>
